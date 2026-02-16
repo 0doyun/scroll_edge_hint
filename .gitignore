@@ -1,0 +1,19 @@
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Flutter/Dart generated
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# FVM
+.fvm/
+.fvmrc
