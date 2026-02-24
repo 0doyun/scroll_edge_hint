@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix pub.dev metadata links to the correct GitHub owner (`0doyun`).
+
 ## 0.1.0
 
 - First release of `scroll_edge_hint`.

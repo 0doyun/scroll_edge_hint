@@ -1,9 +1,9 @@
 name: scroll_edge_hint
 description: Edge fade hints for Flutter scroll views to make scrollability obvious without persistent scrollbars.
-version: 0.1.0
-homepage: https://github.com/gong/scroll_edge_hint
-repository: https://github.com/gong/scroll_edge_hint
-issue_tracker: https://github.com/gong/scroll_edge_hint/issues
+version: 0.1.1
+homepage: https://github.com/0doyun/scroll_edge_hint
+repository: https://github.com/0doyun/scroll_edge_hint
+issue_tracker: https://github.com/0doyun/scroll_edge_hint/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
